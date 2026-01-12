@@ -54,11 +54,10 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stevnuel&theme=github-dark&hide_border=true"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stevnuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=stevnuel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevnuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
 ⭐ Feel free to explore my repositories and give a star if you like my work!
