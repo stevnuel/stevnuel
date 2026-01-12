@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://github.com/stevnuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="stevnuel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nuelnaibaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuelnaibaho" height="30" width="40" /></a>
-<a href="https://kaggle.com/stevenimanuelnaibaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stevenimanuelnaibaho" height="30" width="40" /></a>
 <a href="https://instagram.com/nuel.naibaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuel.naibaho" height="30" width="40" /></a>
 <a href="https://youtube.com/Namesis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Namesis" height="30" width="40" /></a>
 <a href="https://leetcode.com/namesis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namesis" height="30" width="40" /></a>
