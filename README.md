@@ -2,8 +2,6 @@
 
 ### My goal is to leverage my skills and knowledge to develop impactful solutions that enhance user experiences, drive innovation, and contribute to the advancement of technology across various domains
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevnuel&label=Profile views&color=0e75b6&style=flat" alt="stevnuel" /> </p>
-
 - 📫 How to reach me **nuel.naibaho36@gmail.com**
 
 - ⚡ Fun fact **I Love Manchester City**
